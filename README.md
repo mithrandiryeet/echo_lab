@@ -1,3 +1,3 @@
 # echo_lab
-This is my Echo Lab. It's a portfolio of sorts that shows some of the labs we've done this semester.
+This is my Echo Lab. It's a page that links two 'games' i've made
 Thank you.
